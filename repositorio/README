@@ -1,1 +1,5 @@
 este es mi primer repo
+Este e sun codigo de python
+
+def main():
+	print "hola mundo"
